@@ -3,6 +3,7 @@
 .moviePic{
 	height:50%;
 	width:100%;
+	opacity:10px;
 }
 .movieDetail{
 	position:top;
